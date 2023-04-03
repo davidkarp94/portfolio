@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.8043134d.css",
+    "main.js": "/portfolio-react/static/js/main.5e2e6a36.js",
+    "static/media/redsocial.jpg": "/portfolio-react/static/media/redsocial.9698e7629e6ea2f57c07.jpg",
+    "static/media/0.jpg": "/portfolio-react/static/media/0.09fe98a8b32e6d095722.jpg",
+    "static/media/DavidKarpCV.pdf": "/portfolio-react/static/media/DavidKarpCV.508b9e37e5902c708a17.pdf",
+    "static/media/me.jpg": "/portfolio-react/static/media/me.c56c67e884d4f1da84eb.jpg",
+    "static/media/3.jpg": "/portfolio-react/static/media/3.900b239ccd52ef4f2cb8.jpg",
+    "static/media/aboutme.png": "/portfolio-react/static/media/aboutme.a3848cd8efe8487c1689.png",
+    "static/media/6.jpg": "/portfolio-react/static/media/6.4f07fc01cee4375392f0.jpg",
+    "static/media/5.jpg": "/portfolio-react/static/media/5.d53d7adec368169efb18.jpg",
+    "static/media/2.jpg": "/portfolio-react/static/media/2.4e9845b86e1574624c76.jpg",
+    "static/media/4.jpg": "/portfolio-react/static/media/4.7b65f1074a6097694a09.jpg",
+    "static/media/1.jpg": "/portfolio-react/static/media/1.d029eec6201733a112b2.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.8043134d.css.map": "/portfolio-react/static/css/main.8043134d.css.map",
+    "main.5e2e6a36.js.map": "/portfolio-react/static/js/main.5e2e6a36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8043134d.css",
+    "static/js/main.5e2e6a36.js"
+  ]
+}
