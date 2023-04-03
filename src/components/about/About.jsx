@@ -25,23 +25,17 @@ const About = () => {
               <h5>Experience</h5>
               <small>2 Years Working</small>
             </article>
-
-            <article className="about__card">
-              <FaAward className='about__icon' />
-              <h5>Experience</h5>
-              <small>2 Years Working</small>
-            </article>
             
             <article className="about__card">
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>20 Completed projects</small>
+              <small>10+ Completed projects</small>
             </article>
 
           </div>
           
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error placeat laudantium, qui suscipit repudiandae quidem mollitia fuga ducimus fugit quo eveniet, ullam maiores porro sapiente, deserunt ad omnis facere. Quod?
+          FullStack Developer, with 2 years of tertiary learning in the IT ecosystem; looking to pursue opportunities within organizations that can shape and enhance my software development knowledge. Inclined towards initiatives that can provide essential growth and learning environments.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

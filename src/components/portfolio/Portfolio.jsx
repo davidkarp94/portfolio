@@ -8,6 +8,7 @@ import festivaldemusica from '../../assets/3.jpg';
 import proyectobootstrap from '../../assets/4.jpg';
 import ironvix from '../../assets/5.jpg';
 import proyectocodoacodo from '../../assets/6.jpg';
+import portfolio from '../../assets/portfolio.jpg';
 
 const data = [
   {
@@ -26,41 +27,48 @@ const data = [
   },
   {
     id: 3,
+    image: portfolio,
+    title: 'My Old Portfolio',
+    github: 'https://github.com/davidkarp94/portfolio-old',
+    demo: 'https://davidkarp94.github.io/portfolio-old/'
+  },
+  {
+    id: 4,
     image: frontendstore,
     title: 'Front-End Store (Only FrontEnd)',
     github: 'https://frontend-store-dk.netlify.app',
     demo: 'https://frontend-store-dk.netlify.app'
   },
   {
-    id: 4,
+    id: 5,
     image: blogdecafe,
     title: 'BlogDeCafé (Only FrontEnd)',
     github: 'https://blog-cafe-dk.netlify.app',
     demo: 'https://blog-cafe-dk.netlify.app'
   },
   {
-    id: 5,
+    id: 6,
     image: festivaldemusica,
     title: 'Rock & EDM Festival (Only FrontEnd)',
     github: 'https://festival-musica-dk.netlify.app',
     demo: 'https://festival-musica-dk.netlify.app'
   },
   {
-    id: 6,
+    id: 7,
     image: proyectobootstrap,
     title: 'Only Bootstrap Project',
     github: 'https://github.com/davidkarp94/proyecto-bootstrap',
     demo: 'https://proyecto-bootstrap-dk.netlify.app'
   },
   {
-    id: 7,
+    id: 8,
     image: ironvix,
     title: 'IronVix Pre-Launch Page (Only FrontEnd)',
     github: 'https://github.com/davidkarp94',
     demo: 'https://ironvix.com'
   },
   {
-    id: 8,
+    id: 9,
     image: proyectocodoacodo,
     title: 'Codo a Codo 4.0 Project (Only FrontEnd)',
     github: 'https://davidkarp94.github.io/codo-a-codo-tp1/',
